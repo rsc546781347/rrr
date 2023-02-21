@@ -7,5 +7,6 @@ int main(){
         }
         printf("\n");
     }
+    printf("你好\n");
     return 0;
 }
